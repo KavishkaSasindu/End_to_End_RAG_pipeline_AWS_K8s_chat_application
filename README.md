@@ -3,8 +3,7 @@
 An intelligent, context-aware AI chat application that enables users to query complex AWS and Kubernetes documentation using natural language. Built with a modular FastAPI backend, ChromaDB vector storage, Groq Llama 3.1 LLM, and a modern Next.js dark-themed frontend.
 
 ## 📸 System Architecture
-
-> Note: Replace `./End_To_End_RAG_Pipeline.png` in the README with the exact filename of your image located in the root folder.
+<img src="./End_To_End_RAG_Pipeline.png" width="500" height="300" />
 
 ## ✨ Features
 
