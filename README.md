@@ -3,8 +3,9 @@
 An intelligent, context-aware AI chat application that enables users to query complex AWS and Kubernetes documentation using natural language. Built with a modular FastAPI backend, ChromaDB vector storage, Groq Llama 3.1 LLM, and a modern Next.js dark-themed frontend.
 
 ## 📸 System Architecture
-<img src="End_To_End_RAG_Pipeline.jpg" width="500" height="300" />
-
+<p align="center">
+  <img src="End_To_End_RAG_Pipeline.jpg" alt="RAG Architecture" width="800"/>
+</p>
 ## ✨ Features
 
 - **Document Ingestion & Chunking**: Automatically processes, splits, and indexes multi-page AWS & Kubernetes PDF whitepapers into manageable chunks using recursive character splitting.
